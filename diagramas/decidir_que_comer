@@ -1,0 +1,39 @@
+digraph Decidir_Que_Comer {
+	Inicio [label=Inicio shape=oval]
+	P1 [label="¿Cuánta hambre tienes? (mucha/media/poca)" shape=parallelogram]
+	P2 [label="¿Cuánto tiempo tienes en minutos?" shape=parallelogram]
+	P3 [label="¿Cuánto dinero tienes? (mucho/poco/nada)" shape=parallelogram]
+	H1 [label="Hambre = 'mucha'" shape=diamond]
+	H2 [label="Hambre = 'media'" shape=diamond]
+	H3 [label="Hambre = 'poca'" shape=diamond]
+	D1 [label="Dinero = 'mucho'" shape=diamond]
+	D2 [label="Dinero = 'poco'" shape=diamond]
+	O1 [label="Come hamburguesa, pizza o comida completa" shape=rectangle]
+	O2 [label="Come burrito, tacos o menú económico" shape=rectangle]
+	O3 [label="Prepara algo en casa" shape=rectangle]
+	O4 [label="Come fruta, yogurt o galletas" shape=rectangle]
+	O5 [label="Haz ensalada, sándwich o sopa ligera" shape=rectangle]
+	O6 [label="Bebe agua o un té" shape=rectangle]
+	Fin [label=Fin shape=oval]
+	Inicio -> P1
+	P1 -> P2
+	P2 -> P3
+	P3 -> H1
+	H1 -> D1 [label="Sí"]
+	D1 -> O1 [label="Sí"]
+	D1 -> D2 [label=No]
+	D2 -> O2 [label="Sí"]
+	D2 -> O3 [label=No]
+	H1 -> H2 [label=No]
+	H2 -> P2
+	P2 -> O4 [label="< 15 min"]
+	P2 -> O5 [label=">= 15 min"]
+	H2 -> H3 [label=No]
+	H3 -> O6
+	O1 -> Fin
+	O2 -> Fin
+	O3 -> Fin
+	O4 -> Fin
+	O5 -> Fin
+	O6 -> Fin
+}

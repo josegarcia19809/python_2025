@@ -1,4 +1,4 @@
-from publicacion import Publicacion, LibroBiblioteca
+from publicacion import LibroBiblioteca
 
 
 def imprimir_linea():
@@ -20,7 +20,7 @@ def prueba_libro_biblioteca():
     imprimir_linea()
     print(libro3)
     imprimir_linea()
-    
+
     print("Solo titulos de libros*****************")
     print(libro1.get_titulo())
     print(libro2.get_titulo())

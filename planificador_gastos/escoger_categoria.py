@@ -26,3 +26,7 @@ def mostrar_categorias():
 
 categoria_seleccionada = mostrar_categorias()
 print(f"Has seleccionado: {categoria_seleccionada}")
+
+
+
+print(mostrar_categorias())

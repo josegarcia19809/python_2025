@@ -63,6 +63,7 @@ class AppGastos:
 
                 messagebox.showinfo("Éxito", "Gasto agregado correctamente")
                 self.actualizar_presupuesto()
+                self.mostrar_gastos()
             else:
                 messagebox.showwarning("Error", "Todos los campos son obligatorios")
         except ValueError:

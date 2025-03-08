@@ -1,3 +1,8 @@
+# algoritmo busqueda_secuencial_1
+# A es una lista de elementos
+# n es el número de elementos que contiene la lista
+# t es el valor por buscar
+
 n: int = int(input("Dime cuántos elementos tiene la lista: "))
 A: list[int] = []
 
@@ -14,5 +19,7 @@ t = int(input("Dame valor a buscar: "))
 for i in range(n):
     if A[i] == t:
         print(f"Elemento encontrado en la posición {i}")
+
+print("-" * 100)
 
 # 6, 8, 10, 9, 7, 5 n=6

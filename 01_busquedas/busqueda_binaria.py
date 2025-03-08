@@ -1,3 +1,4 @@
+# Programa de búsqueda binaria de un valor en una lista
 def busqueda_binaria(valores: list[int], valor_a_buscar: int) -> int:
     bajo: int = 0
     alto: int = len(valores) - 1
@@ -17,6 +18,7 @@ def busqueda_binaria(valores: list[int], valor_a_buscar: int) -> int:
 
 
 def main():
+    print("Búsqueda binaria")
     arreglo: list[int] = [1, 3, 5, 7, 9, 11, 13, 15, 17, 19]
 
     valor = int(input("Dame número a buscar: "))
@@ -26,6 +28,8 @@ def main():
         print(f"El valor {valor} fue encontrado en la posición {indice}")
     else:
         print(f"El valor {valor} no fue encontrado en el arreglo")
+
+    print("-" * 100)
 
 
 if __name__ == "__main__":

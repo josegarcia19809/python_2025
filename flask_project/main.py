@@ -62,5 +62,20 @@ def mostrar_precio_producto(producto, precio):
     """
 
 
+@app.route("/mostrar-tipo-vehiculo")
+@app.route("/mostrar-tipo-vehiculo/<tipo>")
+def mostrar_tipo_vehiculo(tipo=None):
+    # http://127.0.0.1:5000/mostrar-tipo-vehiculo
+    # http://127.0.0.1:5000/mostrar-tipo-vehiculo/motocicleta
+    texto = ""
+    if tipo is not None:
+        texto = f"Tipo de vehiculo {tipo}"
+    return f"""
+        <h1>Página de información</h1>
+        <p>Datos del vehiculo</p>
+        {texto}
+    """
+
+
 if __name__ == "__main__":
     app.run()

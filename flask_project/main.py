@@ -3,9 +3,10 @@ from flask import Flask, redirect, url_for, render_template
 app = Flask(__name__)
 
 
-@app.route('/')
+@app.route("/")
 def index():
-    return "Aprendiendo Flask"
+    # http://127.0.0.1:5000
+    return render_template("index.html")
 
 
 @app.route("/informacion")

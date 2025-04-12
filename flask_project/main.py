@@ -1,4 +1,4 @@
-from flask import Flask
+from flask import Flask, redirect, url_for, render_template
 
 app = Flask(__name__)
 
@@ -7,16 +7,21 @@ app = Flask(__name__)
 def index():
     return "Aprendiendo Flask"
 
+
 @app.route("/informacion")
 def informacion():
     return "<h1>Página de información</h1>"
 
-@app.route("/contacto") # http://127.0.0.1:5000/contacto
+
+@app.route("/contacto")
 def contacto():
+    # http://127.0.0.1:5000/contacto
     return "<h1>Mi nombre es José Luis García</h1>"
 
-@app.route("/lenguajes-de-programacion") # http://127.0.0.1:5000/lenguajes-de-programacion
+
+@app.route("/lenguajes-de-programacion")
 def lenguajes():
+    # http://127.0.0.1:5000/lenguajes-de-programacion
     return """
     <h1>Lenguajes de programación</h1>
     <p>Python</p>
@@ -27,6 +32,35 @@ def lenguajes():
     """
 
 
+@app.route("/recibir-nombre/<nombre>")
+def recibir_nombre(nombre):
+    # http://127.0.0.1:5000/recibir-nombre/luis
+    return f"""
+        <h1>Página de información</h1>
+        <h3>Bienvenido {nombre}</h3>
+    """
 
-if __name__ == '__main__':
+
+@app.route("/mostrar-calificacion/<nombre>/<promedio>")
+def mostrar_calificacion(nombre, promedio):
+    # http://127.0.0.1:5000/mostrar-calificacion/José/9.0
+    return f"""
+        <h1>Página de información</h1>
+        <h3>Datos del alumno</h3>
+        <h4>Bienvenido {nombre}</h4>
+        <p>Tu promedio es {promedio}</p>
+    """
+
+
+@app.route("/mostrar-precio-producto/<string:producto>/<float:precio>")
+def mostrar_precio_producto(producto, precio):
+    # http://127.0.0.1:5000/mostrar-precio-producto/Coca%20Cola/15.00
+    return f"""
+        <h1>Página de información</h1>
+        <h3>Datos del producto {producto}</h3>
+        <p>Precio ${precio:,.2f}</p>
+    """
+
+
+if __name__ == "__main__":
     app.run()

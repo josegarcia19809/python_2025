@@ -76,6 +76,11 @@ def mostrar_tipo_vehiculo(tipo=None):
         {texto}
     """
 
+@app.route("/mostrar-contacto")
+def mostrar_contacto():
+    # http://127.0.0.1:5000/mostrar-contacto
+    return redirect(url_for("contacto"))  # Poner el nombre de la función de la ruta
+
 
 if __name__ == "__main__":
     app.run()

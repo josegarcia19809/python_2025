@@ -1,0 +1,1001 @@
+Nombre,Genero,Ciudad,Frecuencia,Articulo,Gasto
+Wanda,Femenino,Stamford,Semanalmente,Burger,15.66
+Eric,Masculino,Stamford,Diariamente,Chalupa,10.56
+Charles,Masculino,New York,Nunca,Sushi,42.14
+Anna,Femenino,Philadelphia,Una vez,Ice Cream,11.01
+Deborah,Femenino,Philadelphia,Diariamente,Chalupa,23.49
+Charles,Masculino,Stamford,Mensualmente,Sushi,93.03
+Mark,Masculino,Philadelphia,Mensualmente,Ice Cream,30.01
+Paul,Masculino,Philadelphia,Mensualmente,Chalupa,17.65
+Larry,Masculino,New York,Mensualmente,Burger,34.11
+Roger,Masculino,Stamford,Mensualmente,Chalupa,39.01
+Samuel,Masculino,Stamford,Diariamente,Ice Cream,15.17
+Rachel,Femenino,Philadelphia,Rara vez,Sushi,71.68
+Mary,Femenino,Philadelphia,Una vez,Burger,1.97
+Lori,Femenino,New York,Diariamente,Burrito,34.92
+Henry,Masculino,Stamford,Frecuentemente,Donut,83.61
+Paul,Masculino,Philadelphia,Frecuentemente,Ice Cream,97.67
+Karen,Femenino,Stamford,Anualmente,Burger,39.41
+Frances,Femenino,New York,Semanalmente,Chalupa,3.54
+Bruce,Masculino,Stamford,Frecuentemente,Ice Cream,99.17
+Bonnie,Femenino,Philadelphia,Nunca,Donut,72.63
+Anne,Femenino,Stamford,Nunca,Chalupa,48.49
+Rose,Femenino,New York,Semanalmente,Sushi,40.76
+Earl,Masculino,Stamford,Rara vez,Chalupa,38.26
+Phyllis,Femenino,New York,Frecuentemente,Donut,28.78
+Gerald,Masculino,New York,Anualmente,Chalupa,29.9
+Carol,Femenino,Philadelphia,Diariamente,Burger,90.66
+Dennis,Masculino,Philadelphia,Nunca,Sushi,12.38
+Stephanie,Femenino,New York,Semanalmente,Ice Cream,77.7
+Sarah,Femenino,New York,Frecuentemente,Sushi,76.44
+Lawrence,Masculino,Philadelphia,Frecuentemente,Sushi,7.97
+Rose,Femenino,Philadelphia,Semanalmente,Sushi,59.27
+Sharon,Femenino,New York,Diariamente,Donut,25.04
+Ruby,Femenino,Stamford,Una vez,Burrito,67.36
+Virginia,Femenino,New York,Una vez,Ice Cream,44.58
+Stephen,Masculino,New York,Diariamente,Ice Cream,59.41
+Gregory,Masculino,New York,Semanalmente,Chalupa,81.43
+Kevin,Masculino,New York,Mensualmente,Sushi,60.6
+Nancy,Femenino,New York,Frecuentemente,Burrito,29.69
+Christine,Femenino,Philadelphia,Mensualmente,Sushi,78.71
+Alice,Femenino,New York,Diariamente,Burger,49.32
+Ruth,Femenino,Philadelphia,Rara vez,Ice Cream,15.49
+Steve,Masculino,Stamford,Anualmente,Burrito,3.64
+Sharon,Femenino,Stamford,Frecuentemente,Chalupa,73.16
+George,Masculino,Philadelphia,Frecuentemente,Donut,93.12
+Nancy,Femenino,New York,Nunca,Ice Cream,91.69
+Victor,Masculino,Philadelphia,Semanalmente,Ice Cream,16.83
+Betty,Femenino,Stamford,Mensualmente,Burger,63.84
+Louis,Masculino,Philadelphia,Nunca,Chalupa,31.91
+Gregory,Masculino,New York,Diariamente,Burger,28.99
+Scott,Masculino,Stamford,Semanalmente,Ice Cream,12.33
+Anthony,Masculino,Stamford,Semanalmente,Sushi,96.97
+Cheryl,Femenino,Philadelphia,Diariamente,Burrito,91.58
+Jacqueline,Femenino,New York,Frecuentemente,Donut,3.15
+Lillian,Femenino,Philadelphia,Nunca,Chalupa,18.63
+Elizabeth,Femenino,Stamford,Una vez,Burrito,56.01
+Ronald,Masculino,Stamford,Diariamente,Burrito,66.44
+Lawrence,Masculino,Philadelphia,Frecuentemente,Burrito,54.77
+Nancy,Femenino,Stamford,Anualmente,Burger,74.66
+Emily,Femenino,Stamford,Nunca,Sushi,19.56
+Martin,Masculino,Stamford,Diariamente,Donut,54.38
+Linda,Femenino,New York,Diariamente,Burrito,10.83
+Todd,Masculino,New York,Anualmente,Chalupa,60.54
+Michael,Masculino,Stamford,Nunca,Burrito,50.07
+Jeffrey,Masculino,Stamford,Una vez,Sushi,68.02
+Paula,Femenino,New York,Rara vez,Donut,71.18
+Paul,Masculino,Philadelphia,Semanalmente,Ice Cream,82.57
+Robin,Femenino,Philadelphia,Diariamente,Burrito,45.53
+Nicholas,Masculino,Stamford,Una vez,Burrito,24.87
+Andrea,Femenino,Philadelphia,Diariamente,Sushi,99.02
+Julie,Femenino,Philadelphia,Nunca,Burrito,96.79
+Fred,Masculino,Stamford,Una vez,Sushi,50.16
+Phillip,Masculino,Stamford,Nunca,Chalupa,69.59
+Jane,Femenino,Stamford,Una vez,Chalupa,40.59
+Tammy,Femenino,Stamford,Diariamente,Burger,75.51
+William,Masculino,Stamford,Diariamente,Burrito,81.2
+Joan,Femenino,New York,Semanalmente,Donut,61.25
+William,Masculino,Philadelphia,Diariamente,Sushi,68.14
+Karen,Femenino,New York,Nunca,Burrito,91.77
+Louis,Masculino,New York,Mensualmente,Sushi,8.27
+Emily,Femenino,New York,Anualmente,Ice Cream,31.29
+Tina,Femenino,Philadelphia,Semanalmente,Chalupa,9.35
+Albert,Masculino,New York,Frecuentemente,Burrito,16.1
+Jennifer,Femenino,New York,Semanalmente,Burrito,25.3
+Catherine,Femenino,Philadelphia,Anualmente,Sushi,34.55
+Carolyn,Femenino,New York,Anualmente,Ice Cream,70.45
+Carolyn,Femenino,Philadelphia,Rara vez,Chalupa,92.59
+Marilyn,Femenino,Stamford,Frecuentemente,Donut,13.42
+Julie,Femenino,Stamford,Frecuentemente,Chalupa,93.96
+Ernest,Masculino,Stamford,Semanalmente,Burrito,21.87
+Elizabeth,Femenino,New York,Anualmente,Burger,98.96
+Maria,Femenino,Stamford,Una vez,Ice Cream,8.8
+Ruth,Femenino,Stamford,Diariamente,Sushi,48.21
+Nicholas,Masculino,Philadelphia,Rara vez,Burger,49.02
+Linda,Femenino,Stamford,Una vez,Ice Cream,65.72
+Amy,Femenino,Philadelphia,Mensualmente,Burger,39.73
+Gloria,Femenino,Philadelphia,Mensualmente,Burger,89.52
+Joyce,Femenino,Stamford,Frecuentemente,Donut,19.47
+Irene,Femenino,Philadelphia,Mensualmente,Chalupa,90.69
+William,Masculino,Philadelphia,Una vez,Ice Cream,54.34
+Deborah,Femenino,New York,Mensualmente,Burrito,32.49
+Paula,Femenino,New York,Anualmente,Sushi,63.37
+Ruby,Femenino,Stamford,Diariamente,Burrito,80.49
+Sharon,Femenino,Philadelphia,Una vez,Ice Cream,77.6
+Stephanie,Femenino,Philadelphia,Anualmente,Burrito,50.39
+Stephen,Masculino,Stamford,Anualmente,Chalupa,96.9
+Mark,Masculino,Stamford,Anualmente,Burrito,27.67
+Ruby,Femenino,Stamford,Semanalmente,Donut,38.53
+Mary,Femenino,Stamford,Rara vez,Chalupa,46.52
+Douglas,Masculino,Philadelphia,Nunca,Ice Cream,84.09
+Lori,Femenino,Stamford,Rara vez,Chalupa,47.1
+Theresa,Femenino,Philadelphia,Nunca,Sushi,75.12
+Lillian,Femenino,New York,Rara vez,Chalupa,17.05
+Virginia,Femenino,New York,Mensualmente,Ice Cream,41.02
+Amanda,Femenino,Philadelphia,Una vez,Ice Cream,32.66
+Deborah,Femenino,Philadelphia,Nunca,Sushi,47.88
+Kevin,Masculino,New York,Nunca,Burrito,35.78
+Amy,Femenino,Philadelphia,Diariamente,Burrito,50.39
+Wayne,Masculino,Philadelphia,Nunca,Sushi,70.54
+Nancy,Femenino,Philadelphia,Frecuentemente,Donut,27.47
+Linda,Femenino,Stamford,Rara vez,Donut,12.54
+Sarah,Femenino,Stamford,Frecuentemente,Burrito,11.84
+Rose,Femenino,Philadelphia,Frecuentemente,Chalupa,58.41
+Judith,Femenino,Stamford,Diariamente,Sushi,86.94
+Sharon,Femenino,New York,Anualmente,Sushi,74.85
+Bruce,Masculino,New York,Diariamente,Sushi,56.14
+Jose,Masculino,New York,Una vez,Ice Cream,55.47
+Sara,Femenino,New York,Semanalmente,Chalupa,57.81
+Alice,Femenino,Stamford,Rara vez,Burrito,94.99
+Carolyn,Femenino,Stamford,Semanalmente,Burrito,37.52
+Scott,Masculino,Philadelphia,Semanalmente,Chalupa,3.47
+Jane,Femenino,Stamford,Anualmente,Sushi,54.15
+Samuel,Masculino,Stamford,Semanalmente,Burrito,54.13
+Gary,Masculino,New York,Anualmente,Sushi,26.67
+Christopher,Masculino,New York,Mensualmente,Donut,79.7
+John,Masculino,Stamford,Rara vez,Ice Cream,17.84
+Edward,Masculino,Philadelphia,Diariamente,Chalupa,58.04
+Aaron,Masculino,Philadelphia,Semanalmente,Ice Cream,89.85
+Catherine,Femenino,Stamford,Nunca,Chalupa,9.09
+Joe,Masculino,Stamford,Anualmente,Burger,76.6
+Douglas,Masculino,Philadelphia,Nunca,Burger,15.6
+Sean,Masculino,Stamford,Rara vez,Burger,89.99
+Kathy,Femenino,Stamford,Una vez,Sushi,18.19
+Nancy,Femenino,New York,Mensualmente,Sushi,9.63
+Sara,Femenino,Stamford,Rara vez,Burrito,55.67
+Judith,Femenino,Stamford,Una vez,Ice Cream,47.03
+Ralph,Masculino,Stamford,Mensualmente,Burrito,71.85
+Steven,Masculino,Philadelphia,Semanalmente,Burrito,78.95
+Jane,Femenino,Philadelphia,Anualmente,Chalupa,82.27
+Walter,Masculino,New York,Rara vez,Ice Cream,97.65
+Gloria,Femenino,Stamford,Nunca,Burrito,11.78
+Linda,Femenino,Stamford,Diariamente,Burger,30.55
+Kevin,Masculino,Stamford,Una vez,Sushi,69.11
+Janice,Femenino,Stamford,Una vez,Donut,88.14
+Joshua,Masculino,Stamford,Mensualmente,Chalupa,93.25
+Sarah,Femenino,Philadelphia,Semanalmente,Sushi,42.83
+Judith,Femenino,Philadelphia,Frecuentemente,Ice Cream,55.15
+Jason,Masculino,Philadelphia,Semanalmente,Ice Cream,31.99
+Antonio,Masculino,Philadelphia,Diariamente,Burger,40.04
+Johnny,Masculino,New York,Mensualmente,Chalupa,28.56
+Ronald,Masculino,Stamford,Semanalmente,Burrito,13.58
+Theresa,Femenino,Stamford,Semanalmente,Donut,91.75
+Janice,Femenino,New York,Una vez,Ice Cream,48.88
+Wayne,Masculino,Stamford,Anualmente,Burger,53.82
+Irene,Femenino,New York,Mensualmente,Burger,30.74
+Donald,Masculino,Philadelphia,Nunca,Sushi,41.77
+Philip,Masculino,Stamford,Nunca,Donut,6.7
+Louise,Femenino,Philadelphia,Semanalmente,Ice Cream,64.11
+Chris,Masculino,Philadelphia,Una vez,Ice Cream,48.69
+Donna,Femenino,Stamford,Diariamente,Sushi,37.18
+Cynthia,Femenino,Philadelphia,Diariamente,Burrito,37.67
+Louise,Femenino,Stamford,Rara vez,Donut,18.28
+Aaron,Masculino,New York,Nunca,Donut,48
+Philip,Masculino,Philadelphia,Mensualmente,Sushi,97.12
+Shawn,Masculino,Philadelphia,Anualmente,Ice Cream,72.6
+Ruby,Femenino,New York,Diariamente,Donut,74.6
+Russell,Masculino,Stamford,Una vez,Donut,30.1
+Dorothy,Femenino,Stamford,Rara vez,Ice Cream,78.62
+Chris,Masculino,Philadelphia,Frecuentemente,Chalupa,1.94
+Deborah,Femenino,Stamford,Anualmente,Chalupa,82.11
+Larry,Masculino,New York,Anualmente,Sushi,21.99
+Jennifer,Femenino,New York,Frecuentemente,Chalupa,39.73
+Juan,Masculino,Philadelphia,Rara vez,Burrito,27.71
+Ann,Femenino,Philadelphia,Anualmente,Ice Cream,45.35
+Jeremy,Masculino,Philadelphia,Semanalmente,Donut,30.19
+Jane,Femenino,New York,Frecuentemente,Sushi,95.07
+Adam,Masculino,Stamford,Anualmente,Burrito,46.17
+Teresa,Femenino,Stamford,Mensualmente,Chalupa,93.08
+Richard,Masculino,New York,Anualmente,Burrito,64.63
+Phillip,Masculino,Stamford,Rara vez,Donut,12.81
+Bonnie,Femenino,Philadelphia,Rara vez,Donut,16.02
+Kenneth,Masculino,Stamford,Rara vez,Sushi,98.48
+Carl,Masculino,New York,Una vez,Donut,65.49
+Gary,Masculino,Philadelphia,Diariamente,Chalupa,85.87
+Daniel,Masculino,Philadelphia,Rara vez,Burger,32.11
+Annie,Femenino,New York,Frecuentemente,Sushi,82.09
+Ryan,Masculino,New York,Rara vez,Ice Cream,47.29
+Judith,Femenino,Stamford,Frecuentemente,Ice Cream,97.44
+Patrick,Masculino,Philadelphia,Mensualmente,Ice Cream,31.62
+Dorothy,Femenino,New York,Una vez,Sushi,29.05
+Brian,Masculino,New York,Mensualmente,Ice Cream,55.21
+Virginia,Femenino,Stamford,Semanalmente,Burrito,47.37
+Frank,Masculino,Philadelphia,Nunca,Burger,1.71
+Mark,Masculino,Philadelphia,Anualmente,Ice Cream,4.89
+Albert,Masculino,New York,Mensualmente,Sushi,93.85
+Kathy,Femenino,New York,Frecuentemente,Burger,5.01
+Samuel,Masculino,Stamford,Una vez,Ice Cream,6.43
+Aaron,Masculino,Philadelphia,Una vez,Chalupa,51.43
+Howard,Masculino,Philadelphia,Una vez,Donut,41.27
+Cynthia,Femenino,Philadelphia,Semanalmente,Donut,86.67
+Joshua,Masculino,New York,Frecuentemente,Donut,86.7
+Jimmy,Masculino,Philadelphia,Semanalmente,Burrito,17.85
+Diane,Femenino,New York,Diariamente,Sushi,6.35
+Joe,Masculino,Stamford,Frecuentemente,Burger,39.88
+Mary,Femenino,Philadelphia,Frecuentemente,Donut,68.03
+Roger,Masculino,Stamford,Anualmente,Ice Cream,68.28
+Amy,Femenino,Philadelphia,Diariamente,Donut,25.19
+Henry,Masculino,Philadelphia,Frecuentemente,Donut,17.7
+Tammy,Femenino,Stamford,Semanalmente,Sushi,31.21
+Louis,Masculino,New York,Semanalmente,Ice Cream,14.06
+Tammy,Femenino,Philadelphia,Diariamente,Sushi,32.23
+Kathy,Femenino,Philadelphia,Nunca,Ice Cream,11.67
+Jessica,Femenino,Philadelphia,Nunca,Burger,66.53
+Paul,Masculino,Philadelphia,Mensualmente,Donut,77.5
+Annie,Femenino,New York,Diariamente,Ice Cream,87.85
+Andrea,Femenino,Philadelphia,Semanalmente,Burrito,1.26
+Tammy,Femenino,Stamford,Diariamente,Ice Cream,14.64
+Melissa,Femenino,Philadelphia,Diariamente,Donut,70.27
+Juan,Masculino,Philadelphia,Una vez,Chalupa,36.54
+Joshua,Masculino,Stamford,Rara vez,Chalupa,40.69
+Terry,Masculino,Stamford,Mensualmente,Chalupa,73.07
+Marilyn,Femenino,New York,Anualmente,Sushi,8.09
+Sarah,Femenino,Stamford,Rara vez,Burger,22.65
+Walter,Masculino,New York,Nunca,Burrito,35.1
+Bruce,Masculino,Stamford,Una vez,Ice Cream,43.8
+Jose,Masculino,Philadelphia,Diariamente,Ice Cream,66.66
+Diane,Femenino,New York,Anualmente,Chalupa,98.43
+Jean,Femenino,New York,Nunca,Chalupa,35.15
+Ernest,Masculino,New York,Nunca,Donut,27.22
+Carol,Femenino,Stamford,Frecuentemente,Chalupa,63.19
+Joshua,Masculino,New York,Rara vez,Burrito,43.78
+Mary,Femenino,Stamford,Semanalmente,Ice Cream,18.76
+John,Masculino,Stamford,Rara vez,Burrito,9.84
+Sarah,Femenino,Philadelphia,Anualmente,Chalupa,52.13
+Julia,Femenino,New York,Diariamente,Donut,95.63
+Rose,Femenino,Philadelphia,Anualmente,Chalupa,27.72
+Daniel,Masculino,Stamford,Semanalmente,Ice Cream,61.76
+Sean,Masculino,New York,Semanalmente,Sushi,3.28
+Clarence,Masculino,Philadelphia,Diariamente,Ice Cream,16.91
+Willie,Masculino,Stamford,Semanalmente,Sushi,67.67
+Kathleen,Femenino,New York,Rara vez,Ice Cream,74.27
+Joseph,Masculino,Philadelphia,Mensualmente,Burger,96.25
+Benjamin,Masculino,Stamford,Diariamente,Chalupa,69.99
+Aaron,Masculino,Stamford,Nunca,Burrito,95.07
+Raymond,Masculino,New York,Mensualmente,Sushi,37.05
+Mildred,Femenino,Philadelphia,Frecuentemente,Ice Cream,33.1
+Ashley,Femenino,Philadelphia,Frecuentemente,Burger,13.26
+Philip,Masculino,Philadelphia,Mensualmente,Burger,47.46
+Carolyn,Femenino,New York,Diariamente,Donut,9.16
+Ashley,Femenino,Philadelphia,Anualmente,Ice Cream,63.62
+Victor,Masculino,Stamford,Nunca,Sushi,88.56
+Diane,Femenino,New York,Diariamente,Burger,34.51
+Joan,Femenino,Philadelphia,Frecuentemente,Burger,84.16
+Roger,Masculino,New York,Una vez,Burger,50.61
+Bonnie,Femenino,Philadelphia,Rara vez,Chalupa,96.11
+Jean,Femenino,New York,Frecuentemente,Ice Cream,55.03
+Katherine,Femenino,Stamford,Rara vez,Ice Cream,39.11
+Helen,Femenino,Stamford,Anualmente,Sushi,8.2
+Jean,Femenino,Philadelphia,Mensualmente,Chalupa,65.53
+Louis,Masculino,Stamford,Anualmente,Burrito,74.79
+Martha,Femenino,New York,Anualmente,Chalupa,1.96
+Martha,Femenino,Philadelphia,Una vez,Donut,83.62
+Johnny,Masculino,Philadelphia,Diariamente,Chalupa,92.25
+Martin,Masculino,Philadelphia,Semanalmente,Sushi,72.87
+Howard,Masculino,Philadelphia,Nunca,Donut,31.02
+Shirley,Femenino,New York,Mensualmente,Donut,52.47
+Billy,Masculino,Stamford,Anualmente,Burger,78.79
+Joan,Femenino,Philadelphia,Diariamente,Sushi,66.1
+Todd,Masculino,Stamford,Mensualmente,Donut,57.29
+Patricia,Femenino,New York,Semanalmente,Donut,73.75
+Richard,Masculino,New York,Anualmente,Donut,1.49
+Ashley,Femenino,Stamford,Nunca,Burrito,41.23
+Andrea,Femenino,Philadelphia,Anualmente,Chalupa,85.36
+Phillip,Masculino,Philadelphia,Semanalmente,Burrito,55.48
+Juan,Masculino,Philadelphia,Una vez,Burrito,55.17
+Juan,Masculino,Philadelphia,Nunca,Burrito,89.28
+Bobby,Masculino,New York,Nunca,Chalupa,40.31
+Gregory,Masculino,Stamford,Una vez,Burger,28.13
+Jessica,Femenino,Stamford,Diariamente,Sushi,73.69
+Ernest,Masculino,Philadelphia,Nunca,Chalupa,52.48
+Ashley,Femenino,Stamford,Nunca,Burrito,44.49
+Marie,Femenino,Stamford,Anualmente,Burrito,54.06
+Howard,Masculino,Philadelphia,Una vez,Sushi,23.78
+Ruby,Femenino,New York,Mensualmente,Donut,70.03
+Shirley,Femenino,Philadelphia,Frecuentemente,Burrito,64.79
+David,Masculino,Philadelphia,Diariamente,Burrito,27.39
+William,Masculino,Stamford,Anualmente,Burrito,28.83
+Kenneth,Masculino,New York,Mensualmente,Ice Cream,37.3
+Jonathan,Masculino,Philadelphia,Frecuentemente,Ice Cream,38.02
+Arthur,Masculino,Stamford,Semanalmente,Ice Cream,62.63
+Russell,Masculino,New York,Mensualmente,Sushi,57.7
+Joyce,Femenino,Philadelphia,Una vez,Donut,37.89
+Anne,Femenino,New York,Rara vez,Ice Cream,95.58
+Jimmy,Masculino,Philadelphia,Frecuentemente,Donut,29.91
+Diane,Femenino,Stamford,Frecuentemente,Ice Cream,72.78
+Brian,Masculino,Philadelphia,Rara vez,Donut,63.14
+Lisa,Femenino,Philadelphia,Rara vez,Ice Cream,66.25
+Kathleen,Femenino,Philadelphia,Rara vez,Burger,41.74
+Marie,Femenino,New York,Anualmente,Ice Cream,18.13
+Walter,Masculino,Stamford,Nunca,Ice Cream,46.58
+Jack,Masculino,Stamford,Mensualmente,Burrito,40.4
+Billy,Masculino,Stamford,Una vez,Burger,24.1
+Margaret,Femenino,Stamford,Frecuentemente,Burrito,57.56
+Kimberly,Femenino,Stamford,Una vez,Burger,72.69
+Carol,Femenino,Philadelphia,Una vez,Chalupa,56.19
+Theresa,Femenino,Stamford,Frecuentemente,Burrito,97.48
+Steve,Masculino,Stamford,Nunca,Burrito,91.27
+Norma,Femenino,Philadelphia,Nunca,Chalupa,9.59
+Craig,Masculino,Stamford,Frecuentemente,Ice Cream,60.89
+William,Masculino,New York,Diariamente,Sushi,49.18
+Shawn,Masculino,Stamford,Rara vez,Chalupa,51.63
+Jessica,Femenino,Philadelphia,Una vez,Burrito,45.64
+Peter,Masculino,New York,Una vez,Burger,77.03
+Elizabeth,Femenino,New York,Diariamente,Burger,49.75
+Gerald,Masculino,Stamford,Una vez,Burger,13.42
+Sean,Masculino,New York,Semanalmente,Sushi,63.8
+Keith,Masculino,Philadelphia,Diariamente,Donut,91.19
+Dennis,Masculino,New York,Diariamente,Donut,4.39
+Nancy,Femenino,New York,Una vez,Sushi,42.43
+Henry,Masculino,New York,Diariamente,Chalupa,25.73
+Brandon,Masculino,Stamford,Rara vez,Chalupa,29
+Shirley,Femenino,Philadelphia,Rara vez,Burrito,83.33
+Jimmy,Masculino,Stamford,Frecuentemente,Ice Cream,3.43
+Martha,Femenino,Stamford,Semanalmente,Burger,17.28
+Catherine,Femenino,Stamford,Frecuentemente,Burrito,71.03
+Katherine,Femenino,Philadelphia,Rara vez,Chalupa,10.16
+Phyllis,Femenino,New York,Diariamente,Donut,42.13
+Martin,Masculino,Stamford,Semanalmente,Ice Cream,34.85
+Ryan,Masculino,Philadelphia,Nunca,Burrito,59.67
+Lori,Femenino,New York,Nunca,Ice Cream,95.6
+Robin,Femenino,Stamford,Nunca,Burger,57.3
+Joyce,Femenino,New York,Semanalmente,Sushi,23.73
+Timothy,Masculino,New York,Mensualmente,Donut,47.32
+Howard,Masculino,Stamford,Rara vez,Ice Cream,22.99
+Marie,Femenino,Philadelphia,Rara vez,Burger,83.76
+Carlos,Masculino,Stamford,Diariamente,Burrito,48.21
+Sharon,Femenino,Philadelphia,Anualmente,Ice Cream,15.16
+Fred,Masculino,Stamford,Semanalmente,Donut,16.49
+Tina,Femenino,Stamford,Mensualmente,Sushi,52.61
+Philip,Masculino,Philadelphia,Nunca,Ice Cream,62.14
+Heather,Femenino,Stamford,Frecuentemente,Burrito,46.69
+Ruth,Femenino,New York,Anualmente,Donut,62.95
+Kelly,Femenino,New York,Diariamente,Ice Cream,54.01
+Justin,Masculino,Stamford,Semanalmente,Burger,97.2
+Jose,Masculino,Stamford,Frecuentemente,Donut,68.4
+Julia,Femenino,Philadelphia,Frecuentemente,Chalupa,81.06
+Debra,Femenino,Philadelphia,Anualmente,Chalupa,62.66
+Donna,Femenino,Philadelphia,Semanalmente,Sushi,26.42
+Phillip,Masculino,Stamford,Anualmente,Burger,10.21
+Lillian,Femenino,Stamford,Semanalmente,Ice Cream,47.96
+Mary,Femenino,Philadelphia,Rara vez,Chalupa,24.97
+Roy,Masculino,Philadelphia,Diariamente,Burrito,42.31
+Willie,Masculino,New York,Mensualmente,Sushi,5.12
+Norma,Femenino,New York,Diariamente,Donut,19.09
+Arthur,Masculino,New York,Una vez,Burger,70.08
+Jane,Femenino,New York,Anualmente,Burger,20.79
+Teresa,Femenino,New York,Diariamente,Donut,17.26
+Deborah,Femenino,Philadelphia,Semanalmente,Chalupa,38.66
+Katherine,Femenino,Philadelphia,Una vez,Sushi,12.19
+Catherine,Femenino,Philadelphia,Una vez,Ice Cream,80.25
+Margaret,Femenino,Stamford,Nunca,Donut,47.69
+Kathy,Femenino,New York,Nunca,Ice Cream,18.86
+Jimmy,Masculino,New York,Una vez,Burrito,59.11
+Carolyn,Femenino,Stamford,Anualmente,Sushi,19.18
+Frank,Masculino,New York,Rara vez,Burrito,73.88
+Annie,Femenino,Philadelphia,Semanalmente,Sushi,74.56
+Susan,Femenino,New York,Frecuentemente,Sushi,26.11
+Julie,Femenino,New York,Frecuentemente,Burger,82
+Mildred,Femenino,Stamford,Semanalmente,Sushi,40.14
+Anna,Femenino,Philadelphia,Nunca,Burrito,65.36
+Jason,Masculino,New York,Anualmente,Burger,44.18
+Brandon,Masculino,Stamford,Frecuentemente,Sushi,44.22
+Dennis,Masculino,Stamford,Mensualmente,Chalupa,34.8
+Michelle,Femenino,New York,Una vez,Chalupa,62.4
+Steve,Masculino,Stamford,Mensualmente,Chalupa,14.88
+Johnny,Masculino,Philadelphia,Nunca,Burrito,23.93
+Alice,Femenino,Stamford,Anualmente,Sushi,83.28
+Harry,Masculino,Stamford,Semanalmente,Burger,79.48
+Emily,Femenino,Philadelphia,Una vez,Donut,2.13
+Ruth,Femenino,Stamford,Anualmente,Sushi,41.64
+Eugene,Masculino,Philadelphia,Mensualmente,Ice Cream,72.67
+Evelyn,Femenino,Stamford,Semanalmente,Sushi,25.76
+Ronald,Masculino,New York,Frecuentemente,Ice Cream,88.15
+Lori,Femenino,New York,Frecuentemente,Donut,29.38
+Russell,Masculino,Philadelphia,Nunca,Sushi,19.2
+Diane,Femenino,New York,Mensualmente,Donut,82.05
+Sean,Masculino,Philadelphia,Rara vez,Chalupa,98.4
+George,Masculino,New York,Semanalmente,Donut,58.96
+Susan,Femenino,Philadelphia,Semanalmente,Chalupa,36.4
+Peter,Masculino,Stamford,Frecuentemente,Ice Cream,58.25
+Lori,Femenino,New York,Mensualmente,Chalupa,87.86
+Frances,Femenino,Philadelphia,Semanalmente,Ice Cream,28.46
+Kelly,Femenino,Stamford,Diariamente,Sushi,25.17
+Terry,Masculino,New York,Frecuentemente,Burrito,73.64
+Joseph,Masculino,New York,Mensualmente,Burrito,30.27
+Carl,Masculino,Stamford,Rara vez,Chalupa,14.44
+Debra,Femenino,Philadelphia,Nunca,Ice Cream,65.26
+Jimmy,Masculino,Philadelphia,Una vez,Burrito,8.58
+Richard,Masculino,Philadelphia,Frecuentemente,Burger,73.84
+Fred,Masculino,New York,Diariamente,Ice Cream,69.17
+Louise,Femenino,Philadelphia,Anualmente,Sushi,61.22
+Benjamin,Masculino,Stamford,Rara vez,Burger,2.83
+Richard,Masculino,New York,Diariamente,Burger,68.83
+Sean,Masculino,New York,Semanalmente,Burrito,91.48
+Bobby,Masculino,Philadelphia,Semanalmente,Burrito,65.68
+Jennifer,Femenino,Stamford,Anualmente,Burger,85.06
+Howard,Masculino,Stamford,Rara vez,Sushi,32.15
+Jonathan,Masculino,Stamford,Nunca,Chalupa,36.06
+Ashley,Femenino,Philadelphia,Semanalmente,Ice Cream,46.98
+Joan,Femenino,New York,Rara vez,Donut,10.49
+Dennis,Masculino,Stamford,Una vez,Donut,44.59
+Nicole,Femenino,Stamford,Anualmente,Burger,31.47
+Diane,Femenino,Philadelphia,Mensualmente,Ice Cream,40.64
+Phyllis,Femenino,Stamford,Mensualmente,Burrito,67.94
+Justin,Masculino,New York,Nunca,Burrito,15.9
+Jerry,Masculino,New York,Una vez,Sushi,86.86
+Gloria,Femenino,Philadelphia,Una vez,Chalupa,99.29
+Katherine,Femenino,Philadelphia,Rara vez,Burger,97.79
+Christopher,Masculino,Philadelphia,Una vez,Sushi,51.33
+Joseph,Masculino,Stamford,Semanalmente,Chalupa,44.37
+Paul,Masculino,New York,Una vez,Ice Cream,15.46
+Bruce,Masculino,New York,Mensualmente,Sushi,93.82
+Daniel,Masculino,Stamford,Diariamente,Donut,75.04
+Ronald,Masculino,Philadelphia,Una vez,Ice Cream,86.66
+Jack,Masculino,Stamford,Anualmente,Donut,16.52
+Benjamin,Masculino,New York,Una vez,Donut,45.91
+Norma,Femenino,Philadelphia,Una vez,Chalupa,43.72
+Sara,Femenino,Philadelphia,Diariamente,Burrito,52.58
+Tammy,Femenino,Stamford,Semanalmente,Burger,57.29
+Judith,Femenino,Philadelphia,Una vez,Burrito,52.38
+John,Masculino,Philadelphia,Frecuentemente,Donut,33.22
+Alice,Femenino,New York,Semanalmente,Burger,91.1
+Cheryl,Femenino,Philadelphia,Frecuentemente,Donut,62.89
+Gary,Masculino,Philadelphia,Nunca,Burrito,12.08
+Joan,Femenino,Philadelphia,Rara vez,Donut,32.62
+Jeremy,Masculino,Philadelphia,Diariamente,Sushi,61.7
+Mildred,Femenino,Stamford,Frecuentemente,Donut,41.26
+Debra,Femenino,Stamford,Diariamente,Burrito,39.2
+Cheryl,Femenino,Philadelphia,Anualmente,Burrito,44.6
+Janice,Femenino,Stamford,Mensualmente,Burger,36.81
+Earl,Masculino,New York,Una vez,Chalupa,35.07
+Christine,Femenino,Stamford,Nunca,Burrito,82.37
+Alan,Masculino,Philadelphia,Diariamente,Ice Cream,43.49
+Irene,Femenino,New York,Una vez,Donut,3.79
+Carlos,Masculino,Philadelphia,Diariamente,Burrito,28.86
+Jose,Masculino,New York,Nunca,Ice Cream,23.25
+Angela,Femenino,Stamford,Anualmente,Sushi,47.46
+Anne,Femenino,Stamford,Mensualmente,Ice Cream,23.4
+Justin,Masculino,Philadelphia,Frecuentemente,Donut,76.91
+Todd,Masculino,Philadelphia,Una vez,Donut,4.77
+Kathleen,Femenino,New York,Frecuentemente,Burger,2.25
+Walter,Masculino,Stamford,Mensualmente,Donut,21.09
+Ruth,Femenino,Stamford,Frecuentemente,Donut,58.51
+Beverly,Femenino,Stamford,Anualmente,Sushi,27.35
+Clarence,Masculino,New York,Nunca,Ice Cream,34.29
+Jerry,Masculino,Stamford,Anualmente,Burrito,8.3
+John,Masculino,Philadelphia,Semanalmente,Sushi,53.97
+Robin,Femenino,New York,Nunca,Burrito,7.01
+Craig,Masculino,New York,Anualmente,Burger,5.43
+Chris,Masculino,Philadelphia,Nunca,Sushi,63.22
+Samuel,Masculino,Stamford,Frecuentemente,Chalupa,67.92
+Jesse,Masculino,Philadelphia,Una vez,Donut,89.62
+Jean,Femenino,New York,Semanalmente,Chalupa,73.77
+Wayne,Masculino,Philadelphia,Diariamente,Donut,21.72
+Matthew,Masculino,New York,Nunca,Chalupa,45.41
+Victor,Masculino,Stamford,Mensualmente,Burger,18.21
+Lois,Femenino,Stamford,Rara vez,Donut,73.84
+Bonnie,Femenino,Philadelphia,Anualmente,Burrito,21.76
+Douglas,Masculino,New York,Rara vez,Sushi,53.45
+Steve,Masculino,Stamford,Nunca,Donut,94.14
+Judy,Femenino,New York,Frecuentemente,Ice Cream,42.36
+Joe,Masculino,New York,Una vez,Donut,44.97
+Victor,Masculino,New York,Rara vez,Ice Cream,38.81
+Janice,Femenino,Stamford,Semanalmente,Chalupa,98.69
+Teresa,Femenino,Stamford,Rara vez,Chalupa,81.63
+Juan,Masculino,Stamford,Nunca,Donut,33.2
+Craig,Masculino,New York,Una vez,Donut,66.17
+Samuel,Masculino,New York,Una vez,Burger,52.19
+Victor,Masculino,Philadelphia,Anualmente,Donut,30.31
+Daniel,Masculino,Philadelphia,Una vez,Ice Cream,35.73
+Johnny,Masculino,Stamford,Diariamente,Burger,69.33
+Lois,Femenino,Philadelphia,Nunca,Donut,66.09
+Thomas,Masculino,New York,Diariamente,Donut,11.48
+Jack,Masculino,Philadelphia,Frecuentemente,Ice Cream,81.38
+Mark,Masculino,Philadelphia,Semanalmente,Chalupa,8.77
+Judith,Femenino,New York,Una vez,Burger,43.77
+Julie,Femenino,New York,Una vez,Sushi,4.07
+Linda,Femenino,Stamford,Mensualmente,Chalupa,68.9
+Doris,Femenino,Stamford,Frecuentemente,Donut,16.78
+Christine,Femenino,Philadelphia,Nunca,Burrito,18.48
+Susan,Femenino,Philadelphia,Semanalmente,Ice Cream,40.72
+Beverly,Femenino,Stamford,Una vez,Ice Cream,79.12
+Louise,Femenino,Stamford,Mensualmente,Donut,75.39
+Alice,Femenino,New York,Anualmente,Burger,94.23
+Louis,Masculino,Philadelphia,Nunca,Donut,22.63
+Willie,Masculino,Philadelphia,Diariamente,Sushi,17.26
+Susan,Femenino,Stamford,Anualmente,Chalupa,79.99
+Diane,Femenino,Philadelphia,Diariamente,Donut,59.69
+Bobby,Masculino,Philadelphia,Anualmente,Burger,7.37
+Jack,Masculino,Philadelphia,Semanalmente,Donut,8.46
+Kathleen,Femenino,Stamford,Frecuentemente,Ice Cream,28.09
+Justin,Masculino,Stamford,Anualmente,Burrito,32.07
+Heather,Femenino,Stamford,Anualmente,Sushi,81.48
+Diane,Femenino,Philadelphia,Rara vez,Burrito,48.46
+Steven,Masculino,New York,Frecuentemente,Burger,33.68
+Katherine,Femenino,Philadelphia,Anualmente,Burger,58.55
+Ruby,Femenino,Stamford,Diariamente,Burrito,26.86
+Karen,Femenino,Philadelphia,Nunca,Burrito,78.05
+Jennifer,Femenino,Philadelphia,Semanalmente,Donut,26.81
+Kathy,Femenino,Stamford,Una vez,Burger,16.12
+Joshua,Masculino,Stamford,Anualmente,Burrito,41.17
+Diane,Femenino,Philadelphia,Mensualmente,Burrito,1.04
+Ruth,Femenino,New York,Rara vez,Burger,44.51
+Ralph,Masculino,Stamford,Anualmente,Burger,5.65
+Sara,Femenino,Philadelphia,Diariamente,Burrito,43.82
+Judy,Femenino,New York,Semanalmente,Chalupa,36.4
+Charles,Masculino,New York,Anualmente,Chalupa,77.3
+Sharon,Femenino,Philadelphia,Anualmente,Donut,68.97
+Alan,Masculino,Stamford,Frecuentemente,Ice Cream,68.9
+Roger,Masculino,Philadelphia,Semanalmente,Sushi,95.7
+Diane,Femenino,New York,Diariamente,Donut,36.57
+Marie,Femenino,Philadelphia,Rara vez,Ice Cream,79.52
+Victor,Masculino,New York,Rara vez,Donut,16.25
+Karen,Femenino,Philadelphia,Diariamente,Sushi,50.73
+Joshua,Masculino,New York,Frecuentemente,Ice Cream,86.01
+Andrew,Masculino,New York,Mensualmente,Burrito,43.69
+Steven,Masculino,Philadelphia,Rara vez,Ice Cream,88.51
+Dennis,Masculino,Philadelphia,Semanalmente,Chalupa,43.47
+Steve,Masculino,Stamford,Semanalmente,Sushi,86.43
+Nicholas,Masculino,Stamford,Rara vez,Sushi,93.52
+Elizabeth,Femenino,New York,Semanalmente,Sushi,31.66
+Martin,Masculino,Philadelphia,Anualmente,Burger,98.83
+Tammy,Femenino,Philadelphia,Una vez,Sushi,57.69
+Jason,Masculino,Stamford,Semanalmente,Donut,80.88
+Doris,Femenino,Stamford,Semanalmente,Burrito,81.18
+Shirley,Femenino,Stamford,Nunca,Burrito,65.09
+Willie,Masculino,Stamford,Mensualmente,Donut,16.11
+Brian,Masculino,New York,Semanalmente,Ice Cream,79.95
+Steve,Masculino,Stamford,Rara vez,Donut,44.67
+Jane,Femenino,Stamford,Anualmente,Burrito,35.72
+Frank,Masculino,Stamford,Rara vez,Burger,66.93
+Matthew,Masculino,New York,Anualmente,Donut,11.11
+Patricia,Femenino,Stamford,Una vez,Ice Cream,78.66
+Ashley,Femenino,Stamford,Anualmente,Chalupa,53.23
+Edward,Masculino,New York,Nunca,Sushi,51.5
+Charles,Masculino,Stamford,Una vez,Burger,88.05
+Diana,Femenino,Philadelphia,Una vez,Sushi,86.45
+Alan,Masculino,New York,Semanalmente,Burger,69.69
+Jimmy,Masculino,New York,Mensualmente,Burrito,73.58
+Anthony,Masculino,Philadelphia,Diariamente,Sushi,58.94
+Rebecca,Femenino,Philadelphia,Frecuentemente,Burrito,85.08
+Laura,Femenino,Stamford,Anualmente,Donut,55.62
+Jack,Masculino,New York,Semanalmente,Chalupa,67.02
+Carlos,Masculino,Stamford,Semanalmente,Burger,76.19
+Amanda,Femenino,Stamford,Semanalmente,Chalupa,80.97
+Christine,Femenino,Philadelphia,Diariamente,Sushi,82.95
+Anna,Femenino,Stamford,Semanalmente,Ice Cream,20.12
+Ashley,Femenino,New York,Mensualmente,Chalupa,70.51
+Catherine,Femenino,New York,Mensualmente,Burger,97.77
+Doris,Femenino,Philadelphia,Anualmente,Chalupa,53.45
+Steve,Masculino,Philadelphia,Una vez,Donut,22.21
+Steven,Masculino,Philadelphia,Semanalmente,Burger,13.22
+Richard,Masculino,New York,Mensualmente,Burger,80.64
+Marie,Femenino,Stamford,Anualmente,Donut,50.64
+Julie,Femenino,Philadelphia,Frecuentemente,Donut,17.39
+Nicholas,Masculino,New York,Nunca,Donut,78.71
+Christina,Femenino,Philadelphia,Nunca,Burger,84.04
+Shirley,Femenino,Stamford,Nunca,Burger,33.67
+Donald,Masculino,New York,Frecuentemente,Ice Cream,34.82
+Diana,Femenino,New York,Anualmente,Burrito,1.02
+Sarah,Femenino,Stamford,Frecuentemente,Chalupa,42.74
+Ernest,Masculino,New York,Una vez,Burger,46.66
+Deborah,Femenino,Philadelphia,Anualmente,Chalupa,53.4
+Louise,Femenino,Stamford,Frecuentemente,Burrito,99.21
+Juan,Masculino,New York,Frecuentemente,Donut,37.18
+Kathryn,Femenino,Stamford,Semanalmente,Sushi,67.08
+Cheryl,Femenino,Stamford,Mensualmente,Burger,84.7
+Joe,Masculino,Philadelphia,Semanalmente,Donut,77.15
+Steven,Masculino,Philadelphia,Una vez,Burrito,19.88
+Melissa,Femenino,New York,Semanalmente,Ice Cream,32.12
+Denise,Femenino,Stamford,Nunca,Donut,59.04
+Kathy,Femenino,Philadelphia,Nunca,Donut,79.15
+Roy,Masculino,Philadelphia,Anualmente,Burger,48.21
+Andrew,Masculino,Philadelphia,Mensualmente,Burrito,27.5
+Andrea,Femenino,Stamford,Nunca,Donut,50.6
+Joseph,Masculino,Philadelphia,Una vez,Burrito,43.65
+Randy,Masculino,New York,Frecuentemente,Donut,15.92
+Louise,Femenino,Philadelphia,Nunca,Chalupa,53.31
+Denise,Femenino,Philadelphia,Diariamente,Ice Cream,21.27
+Jeffrey,Masculino,Stamford,Semanalmente,Donut,95.44
+Gary,Masculino,Philadelphia,Anualmente,Burrito,54.75
+Bruce,Masculino,Philadelphia,Anualmente,Donut,14.3
+Norma,Femenino,Philadelphia,Rara vez,Burrito,63.12
+Brenda,Femenino,New York,Anualmente,Sushi,38.98
+Catherine,Femenino,Philadelphia,Rara vez,Chalupa,50.68
+Roger,Masculino,New York,Nunca,Donut,46.39
+Frances,Femenino,Philadelphia,Frecuentemente,Chalupa,35.88
+Jason,Masculino,New York,Mensualmente,Burger,72.54
+Robin,Femenino,Stamford,Nunca,Chalupa,98.78
+Jimmy,Masculino,Philadelphia,Nunca,Burrito,93.27
+Martha,Femenino,Stamford,Semanalmente,Burrito,46.43
+Sharon,Femenino,New York,Semanalmente,Sushi,51.59
+Michael,Masculino,Philadelphia,Mensualmente,Burrito,26.13
+Christina,Femenino,Stamford,Semanalmente,Chalupa,25.03
+Mark,Masculino,Stamford,Rara vez,Donut,79.58
+Roger,Masculino,Philadelphia,Una vez,Chalupa,80.59
+Amanda,Femenino,Stamford,Semanalmente,Donut,88.18
+Craig,Masculino,Stamford,Una vez,Sushi,45.42
+Bonnie,Femenino,Philadelphia,Nunca,Ice Cream,71.49
+Wayne,Masculino,New York,Mensualmente,Donut,20.7
+Andrea,Femenino,Philadelphia,Nunca,Donut,96.52
+Raymond,Masculino,Philadelphia,Frecuentemente,Ice Cream,72.18
+Diane,Femenino,Stamford,Una vez,Donut,70.1
+Jerry,Masculino,New York,Diariamente,Burrito,48.83
+Lillian,Femenino,New York,Semanalmente,Sushi,99.51
+Sean,Masculino,New York,Mensualmente,Donut,36.01
+Phyllis,Femenino,New York,Semanalmente,Burger,93.25
+Donna,Femenino,Philadelphia,Rara vez,Burger,63
+Martin,Masculino,Philadelphia,Una vez,Donut,42.9
+Juan,Masculino,Philadelphia,Mensualmente,Sushi,58.47
+Patricia,Femenino,New York,Una vez,Chalupa,29.46
+Tina,Femenino,New York,Diariamente,Burger,87.3
+Norma,Femenino,New York,Frecuentemente,Burrito,62.7
+Diana,Femenino,Philadelphia,Anualmente,Chalupa,58.34
+Ruth,Femenino,New York,Anualmente,Sushi,47.12
+Kevin,Masculino,New York,Rara vez,Sushi,35.01
+Amy,Femenino,New York,Semanalmente,Sushi,19.25
+Paula,Femenino,Stamford,Frecuentemente,Chalupa,66.13
+Fred,Masculino,New York,Frecuentemente,Chalupa,96.44
+Clarence,Masculino,Stamford,Una vez,Sushi,81.94
+Justin,Masculino,New York,Rara vez,Burrito,84.74
+Martin,Masculino,Stamford,Frecuentemente,Donut,99.26
+Randy,Masculino,Stamford,Nunca,Ice Cream,37.45
+Daniel,Masculino,Stamford,Una vez,Ice Cream,33.37
+Maria,Femenino,Philadelphia,Nunca,Sushi,52.7
+Denise,Femenino,Philadelphia,Rara vez,Burrito,3.2
+Judith,Femenino,New York,Mensualmente,Ice Cream,51.51
+Samuel,Masculino,New York,Una vez,Chalupa,11.61
+Norma,Femenino,Stamford,Una vez,Burrito,44.64
+Judy,Femenino,New York,Semanalmente,Sushi,76.76
+Evelyn,Femenino,Philadelphia,Una vez,Sushi,88.77
+Sandra,Femenino,Philadelphia,Rara vez,Sushi,63.42
+Robin,Femenino,Stamford,Diariamente,Sushi,56.56
+Melissa,Femenino,Philadelphia,Frecuentemente,Burger,49.52
+Justin,Masculino,Stamford,Nunca,Donut,85.6
+Eric,Masculino,Philadelphia,Anualmente,Chalupa,37.66
+Pamela,Femenino,New York,Anualmente,Burrito,70.24
+Catherine,Femenino,New York,Mensualmente,Burger,43.35
+Sandra,Femenino,New York,Nunca,Donut,56.07
+Sean,Masculino,Philadelphia,Anualmente,Ice Cream,96.34
+Elizabeth,Femenino,Stamford,Diariamente,Donut,77.71
+Lois,Femenino,Philadelphia,Semanalmente,Burrito,61.56
+Margaret,Femenino,New York,Una vez,Burrito,59.94
+Kevin,Masculino,Stamford,Anualmente,Chalupa,19.29
+Maria,Femenino,New York,Frecuentemente,Burrito,11.21
+Nancy,Femenino,Philadelphia,Mensualmente,Ice Cream,33.87
+Eric,Masculino,New York,Diariamente,Burger,62.22
+Phyllis,Femenino,New York,Rara vez,Ice Cream,72.5
+James,Masculino,New York,Rara vez,Burger,80.37
+Judy,Femenino,New York,Diariamente,Ice Cream,22.5
+Scott,Masculino,Philadelphia,Una vez,Burrito,61.75
+Jonathan,Masculino,New York,Rara vez,Burger,61.47
+Denise,Femenino,Stamford,Diariamente,Burrito,47.9
+Melissa,Femenino,New York,Una vez,Ice Cream,13.39
+Victor,Masculino,New York,Rara vez,Burger,83.84
+Mary,Femenino,New York,Diariamente,Donut,35.42
+Lawrence,Masculino,Stamford,Frecuentemente,Burger,11.07
+Kelly,Femenino,New York,Mensualmente,Burrito,73.89
+Ruby,Femenino,New York,Diariamente,Burger,30.92
+Jeremy,Masculino,Stamford,Semanalmente,Sushi,87.09
+Russell,Masculino,Philadelphia,Una vez,Ice Cream,46.12
+Tina,Femenino,Stamford,Anualmente,Ice Cream,15.24
+Debra,Femenino,New York,Semanalmente,Burrito,2.86
+Sean,Masculino,New York,Mensualmente,Sushi,74.45
+Tina,Femenino,Stamford,Anualmente,Burrito,76.32
+Albert,Masculino,New York,Nunca,Donut,19.31
+Jerry,Masculino,Stamford,Diariamente,Burger,31.01
+Jennifer,Femenino,Philadelphia,Anualmente,Donut,85.51
+Stephen,Masculino,Philadelphia,Diariamente,Sushi,2.01
+Matthew,Masculino,Stamford,Mensualmente,Burrito,7.35
+Robin,Femenino,New York,Diariamente,Burrito,83.29
+Brian,Masculino,Philadelphia,Frecuentemente,Ice Cream,38.29
+Martin,Masculino,New York,Frecuentemente,Ice Cream,43.12
+Benjamin,Masculino,New York,Rara vez,Sushi,72.03
+Robin,Femenino,Philadelphia,Frecuentemente,Burger,26.62
+Gerald,Masculino,Stamford,Semanalmente,Burger,57.34
+Emily,Femenino,New York,Nunca,Burrito,68.28
+Michelle,Femenino,Philadelphia,Una vez,Burger,52.53
+Catherine,Femenino,New York,Semanalmente,Ice Cream,54.52
+Richard,Masculino,New York,Diariamente,Sushi,37.18
+Joyce,Femenino,Philadelphia,Nunca,Burger,66.27
+Katherine,Femenino,Philadelphia,Mensualmente,Chalupa,55.09
+Brian,Masculino,Philadelphia,Mensualmente,Donut,12.58
+Cheryl,Femenino,New York,Rara vez,Sushi,87.7
+James,Masculino,Philadelphia,Anualmente,Ice Cream,18.85
+Linda,Femenino,Stamford,Semanalmente,Burger,46.48
+Louis,Masculino,Philadelphia,Una vez,Ice Cream,22.27
+Mark,Masculino,Philadelphia,Mensualmente,Donut,48.4
+Willie,Masculino,New York,Frecuentemente,Ice Cream,95.45
+Jose,Masculino,Philadelphia,Frecuentemente,Ice Cream,29.19
+Kenneth,Masculino,New York,Anualmente,Donut,82.76
+Paul,Masculino,Philadelphia,Rara vez,Burger,7.25
+Johnny,Masculino,Stamford,Nunca,Burrito,87.34
+Ashley,Femenino,Philadelphia,Semanalmente,Sushi,46.65
+Howard,Masculino,Philadelphia,Semanalmente,Burrito,31.28
+Jessica,Femenino,Philadelphia,Semanalmente,Ice Cream,88.14
+Sharon,Femenino,New York,Anualmente,Burger,45.32
+Arthur,Masculino,New York,Frecuentemente,Burrito,53.77
+Adam,Masculino,Stamford,Una vez,Burrito,5.28
+Virginia,Femenino,Stamford,Frecuentemente,Burger,44.93
+Cynthia,Femenino,Stamford,Nunca,Burrito,22.77
+Fred,Masculino,Stamford,Una vez,Donut,6.63
+Jimmy,Masculino,Philadelphia,Frecuentemente,Sushi,27.61
+Evelyn,Femenino,New York,Rara vez,Chalupa,25.18
+Jeremy,Masculino,Stamford,Anualmente,Sushi,48.71
+Peter,Masculino,New York,Diariamente,Ice Cream,49.64
+Thomas,Masculino,Philadelphia,Rara vez,Ice Cream,49.93
+Nicholas,Masculino,Philadelphia,Una vez,Donut,17.99
+Ronald,Masculino,New York,Semanalmente,Burrito,58.04
+Peter,Masculino,New York,Nunca,Chalupa,53.69
+Wanda,Femenino,Philadelphia,Una vez,Burger,66.01
+Mildred,Femenino,Philadelphia,Diariamente,Ice Cream,77.24
+Denise,Femenino,Philadelphia,Rara vez,Donut,53.05
+Patricia,Femenino,New York,Rara vez,Burrito,75.29
+Lisa,Femenino,Philadelphia,Anualmente,Burger,64.62
+Jerry,Masculino,Stamford,Anualmente,Ice Cream,19.32
+Russell,Masculino,New York,Semanalmente,Chalupa,14.75
+Lillian,Femenino,Stamford,Una vez,Sushi,40.49
+Kathy,Femenino,Stamford,Una vez,Sushi,32.26
+Nicole,Femenino,Stamford,Diariamente,Burger,38.6
+Jose,Masculino,Philadelphia,Frecuentemente,Sushi,66.93
+Mark,Masculino,Philadelphia,Rara vez,Sushi,91.26
+Brenda,Femenino,Stamford,Mensualmente,Donut,35.82
+Terry,Masculino,Philadelphia,Diariamente,Ice Cream,14.9
+Robin,Femenino,Stamford,Semanalmente,Burrito,18.41
+Carl,Masculino,New York,Semanalmente,Ice Cream,86.08
+Louis,Masculino,Philadelphia,Semanalmente,Chalupa,79.97
+Kevin,Masculino,New York,Nunca,Chalupa,44.7
+Kelly,Femenino,Philadelphia,Mensualmente,Chalupa,78.65
+Joan,Femenino,Stamford,Semanalmente,Sushi,59.84
+Rose,Femenino,New York,Semanalmente,Donut,85.93
+Theresa,Femenino,Stamford,Rara vez,Burger,74.88
+Jose,Masculino,New York,Diariamente,Burrito,98.04
+Pamela,Femenino,New York,Diariamente,Burger,10.87
+Lois,Femenino,New York,Diariamente,Sushi,74.72
+Melissa,Femenino,Philadelphia,Rara vez,Sushi,85.37
+David,Masculino,Philadelphia,Nunca,Sushi,38.66
+Jose,Masculino,Stamford,Nunca,Burrito,28.09
+Lori,Femenino,Stamford,Anualmente,Donut,69.4
+Anthony,Masculino,New York,Semanalmente,Donut,15.48
+Tammy,Femenino,New York,Nunca,Sushi,69.33
+Wayne,Masculino,Philadelphia,Mensualmente,Burrito,35.95
+Paula,Femenino,Stamford,Diariamente,Chalupa,95.7
+Lawrence,Masculino,Philadelphia,Mensualmente,Burger,69.43
+Gregory,Masculino,New York,Nunca,Chalupa,14.98
+Frank,Masculino,Stamford,Una vez,Donut,39.47
+Larry,Masculino,New York,Anualmente,Ice Cream,14.91
+James,Masculino,Philadelphia,Diariamente,Burger,65.89
+Angela,Femenino,Philadelphia,Anualmente,Chalupa,29.11
+Charles,Masculino,Stamford,Rara vez,Donut,26.25
+Maria,Femenino,Philadelphia,Rara vez,Burger,59.18
+Johnny,Masculino,Stamford,Frecuentemente,Donut,70.28
+Antonio,Masculino,Stamford,Una vez,Burger,17.92
+Arthur,Masculino,Stamford,Diariamente,Chalupa,12.22
+Douglas,Masculino,New York,Una vez,Donut,55.7
+Sara,Femenino,New York,Rara vez,Burrito,92.25
+Alice,Femenino,Philadelphia,Anualmente,Sushi,50.08
+Victor,Masculino,Philadelphia,Semanalmente,Sushi,29.96
+Theresa,Femenino,Stamford,Mensualmente,Donut,9.07
+Teresa,Femenino,Philadelphia,Una vez,Donut,8.59
+Michael,Masculino,Philadelphia,Anualmente,Burrito,63.76
+Christina,Femenino,Philadelphia,Frecuentemente,Ice Cream,19.67
+Mark,Masculino,New York,Una vez,Sushi,49.46
+Eric,Masculino,Philadelphia,Frecuentemente,Donut,10.29
+Stephanie,Femenino,Stamford,Diariamente,Ice Cream,78.24
+Willie,Masculino,Philadelphia,Mensualmente,Ice Cream,67.89
+Nicole,Femenino,Stamford,Rara vez,Sushi,27.82
+Denise,Femenino,New York,Semanalmente,Ice Cream,63.28
+Sandra,Femenino,New York,Rara vez,Chalupa,92.98
+Brandon,Masculino,New York,Diariamente,Burger,74.68
+Benjamin,Masculino,New York,Diariamente,Donut,84.85
+Heather,Femenino,Philadelphia,Una vez,Donut,32.74
+Carlos,Masculino,Philadelphia,Nunca,Burrito,16.3
+Bonnie,Femenino,Philadelphia,Anualmente,Donut,20.75
+Martin,Masculino,New York,Frecuentemente,Burger,21.79
+Rose,Femenino,Philadelphia,Una vez,Ice Cream,30.01
+Joe,Masculino,Philadelphia,Mensualmente,Ice Cream,99.24
+Amanda,Femenino,Philadelphia,Nunca,Ice Cream,7.61
+Ernest,Masculino,New York,Anualmente,Ice Cream,96.74
+Amanda,Femenino,New York,Una vez,Donut,54.34
+Elizabeth,Femenino,Philadelphia,Nunca,Burrito,31.42
+Pamela,Femenino,Philadelphia,Nunca,Donut,24.28
+Paul,Masculino,Stamford,Nunca,Chalupa,33.05
+Catherine,Femenino,Stamford,Semanalmente,Donut,30.24
+Jeffrey,Masculino,Philadelphia,Mensualmente,Donut,70.09
+Rebecca,Femenino,New York,Semanalmente,Sushi,67.63
+Susan,Femenino,New York,Diariamente,Ice Cream,97.83
+Louise,Femenino,Stamford,Frecuentemente,Burger,42.34
+Walter,Masculino,Philadelphia,Anualmente,Sushi,33.8
+Howard,Masculino,New York,Anualmente,Ice Cream,48.05
+Johnny,Masculino,Philadelphia,Anualmente,Burger,42.95
+Mary,Femenino,Stamford,Frecuentemente,Sushi,8.44
+Billy,Masculino,Stamford,Frecuentemente,Chalupa,72.66
+Mary,Femenino,New York,Diariamente,Burrito,67.56
+Laura,Femenino,New York,Mensualmente,Donut,79.98
+Robin,Femenino,Stamford,Diariamente,Donut,1.68
+Christopher,Masculino,New York,Diariamente,Burrito,89.34
+Anthony,Masculino,New York,Mensualmente,Ice Cream,59.69
+Catherine,Femenino,Philadelphia,Frecuentemente,Burger,77.93
+Craig,Masculino,Philadelphia,Diariamente,Donut,58.01
+Margaret,Femenino,New York,Frecuentemente,Sushi,39.34
+Sandra,Femenino,New York,Frecuentemente,Ice Cream,91.5
+Wayne,Masculino,New York,Diariamente,Burger,84.74
+Diane,Femenino,Philadelphia,Mensualmente,Burrito,33.24
+Patricia,Femenino,Philadelphia,Diariamente,Burger,49.9
+Walter,Masculino,Stamford,Diariamente,Burger,38.28
+Jerry,Masculino,Stamford,Mensualmente,Donut,25.04
+Sandra,Femenino,Stamford,Mensualmente,Donut,82.25
+Walter,Masculino,New York,Mensualmente,Chalupa,95.49
+Kimberly,Femenino,Stamford,Anualmente,Burrito,6.88
+Randy,Masculino,Philadelphia,Semanalmente,Burger,11.08
+Elizabeth,Femenino,Stamford,Frecuentemente,Chalupa,30.3
+James,Masculino,Philadelphia,Nunca,Chalupa,61.6
+Lori,Femenino,Stamford,Semanalmente,Ice Cream,18.14
+Anna,Femenino,New York,Diariamente,Burrito,27.85
+Henry,Masculino,Stamford,Una vez,Burger,45.27
+Brian,Masculino,Stamford,Semanalmente,Donut,54.18
+Christina,Femenino,New York,Diariamente,Donut,39.73
+Eugene,Masculino,Philadelphia,Una vez,Ice Cream,12.26
+Evelyn,Femenino,Philadelphia,Diariamente,Sushi,17.5
+Victor,Masculino,Philadelphia,Frecuentemente,Donut,1.26
+Kelly,Femenino,Stamford,Semanalmente,Sushi,91.33
+William,Masculino,Philadelphia,Nunca,Chalupa,86.82
+Dorothy,Femenino,Philadelphia,Semanalmente,Sushi,84.27
+Lori,Femenino,Philadelphia,Diariamente,Ice Cream,79.18
+Chris,Masculino,Philadelphia,Diariamente,Burger,6.77
+Lillian,Femenino,Philadelphia,Rara vez,Sushi,82.09
+James,Masculino,New York,Semanalmente,Ice Cream,15.69
+Eugene,Masculino,Stamford,Una vez,Ice Cream,84.98
+Jean,Femenino,Philadelphia,Nunca,Donut,94.91
+Earl,Masculino,New York,Anualmente,Burrito,55.09
+Jennifer,Femenino,New York,Una vez,Sushi,81.4
+Randy,Masculino,Stamford,Semanalmente,Ice Cream,67.85
+Douglas,Masculino,Stamford,Nunca,Sushi,62.3
+Helen,Femenino,Stamford,Semanalmente,Donut,67.68
+Rebecca,Femenino,New York,Anualmente,Chalupa,57.43
+Heather,Femenino,New York,Semanalmente,Burrito,11.53
+Wanda,Femenino,Stamford,Diariamente,Donut,44.96
+Justin,Masculino,Philadelphia,Rara vez,Burger,99.68
+Stephanie,Femenino,Philadelphia,Frecuentemente,Sushi,85.87
+Jane,Femenino,Philadelphia,Anualmente,Ice Cream,35.73
+Debra,Femenino,New York,Rara vez,Chalupa,24.79
+Martha,Femenino,Stamford,Una vez,Sushi,95.43
+Amanda,Femenino,Philadelphia,Diariamente,Burger,91.12
+Ronald,Masculino,Philadelphia,Semanalmente,Sushi,7.83
+Paul,Masculino,Philadelphia,Mensualmente,Chalupa,73.05
+Steven,Masculino,New York,Diariamente,Donut,64.09
+Ann,Femenino,Philadelphia,Una vez,Ice Cream,83.3
+Norma,Femenino,Philadelphia,Rara vez,Ice Cream,41.84
+Diane,Femenino,Stamford,Frecuentemente,Chalupa,50.14
+Irene,Femenino,Stamford,Semanalmente,Burger,18.31
+Linda,Femenino,New York,Frecuentemente,Sushi,22.37
+Wayne,Masculino,New York,Anualmente,Burrito,65.45
+Christine,Femenino,Stamford,Mensualmente,Ice Cream,59.76
+George,Masculino,New York,Semanalmente,Ice Cream,28.08
+Ernest,Masculino,New York,Frecuentemente,Burrito,46.41
+Larry,Masculino,New York,Una vez,Donut,60.08
+Harry,Masculino,New York,Mensualmente,Chalupa,70.54
+Wayne,Masculino,New York,Anualmente,Burrito,35.53
+Kathleen,Femenino,Philadelphia,Semanalmente,Burger,25.41
+Dennis,Masculino,New York,Frecuentemente,Chalupa,26.06
+Heather,Femenino,Philadelphia,Mensualmente,Burger,2.65
+Frank,Masculino,Philadelphia,Diariamente,Donut,19.79
+Doris,Femenino,Philadelphia,Frecuentemente,Burrito,95.04
+Nancy,Femenino,Stamford,Anualmente,Donut,48.82
+Henry,Masculino,Philadelphia,Rara vez,Donut,22.08
+Jacqueline,Femenino,Stamford,Frecuentemente,Donut,69.1
+Donald,Masculino,Philadelphia,Una vez,Sushi,85.98
+Pamela,Femenino,Stamford,Rara vez,Burrito,83.83
+Kimberly,Femenino,Philadelphia,Semanalmente,Burger,6.59
+Mildred,Femenino,Philadelphia,Mensualmente,Burger,83.15
+Jeffrey,Masculino,Philadelphia,Nunca,Burrito,68.99
+Susan,Femenino,New York,Una vez,Sushi,4.84
+Michelle,Femenino,Philadelphia,Nunca,Burger,2.13
+John,Masculino,Philadelphia,Una vez,Donut,5.12
+Harold,Masculino,New York,Semanalmente,Sushi,83.07
+Paula,Femenino,Stamford,Semanalmente,Donut,77.52
+Craig,Masculino,Philadelphia,Semanalmente,Burger,75.59
+Catherine,Femenino,Philadelphia,Nunca,Burrito,92.2
+Janice,Femenino,New York,Una vez,Chalupa,18.94
+Gloria,Femenino,New York,Diariamente,Donut,62.69
+James,Masculino,Philadelphia,Mensualmente,Donut,50.72
+Teresa,Femenino,New York,Una vez,Burger,61.08
+Melissa,Femenino,Stamford,Anualmente,Burger,6.63
+Lois,Femenino,New York,Semanalmente,Donut,64.63
+Paul,Masculino,Stamford,Nunca,Sushi,54.04
+Alice,Femenino,Stamford,Mensualmente,Donut,26.77
+Virginia,Femenino,Philadelphia,Nunca,Sushi,14.88
+Joe,Masculino,Philadelphia,Mensualmente,Ice Cream,85.12
+Benjamin,Masculino,New York,Rara vez,Ice Cream,86.67
+Jose,Masculino,Stamford,Mensualmente,Chalupa,88.75
+Russell,Masculino,Philadelphia,Nunca,Burrito,14.8
+Elizabeth,Femenino,New York,Frecuentemente,Donut,69.32
+Alan,Masculino,Philadelphia,Nunca,Chalupa,10.17
+Willie,Masculino,New York,Frecuentemente,Sushi,9.31
+Ruby,Femenino,Stamford,Diariamente,Sushi,65.52
+Anthony,Masculino,New York,Semanalmente,Burrito,37.05
+Steve,Masculino,New York,Diariamente,Sushi,83.07
+Kimberly,Femenino,Philadelphia,Diariamente,Donut,92.25
+Russell,Masculino,Stamford,Diariamente,Burger,59.1
+Robin,Femenino,Stamford,Mensualmente,Ice Cream,42.69
+Janice,Femenino,Philadelphia,Rara vez,Donut,81.56
+Patrick,Masculino,Philadelphia,Una vez,Ice Cream,24.54
+Mark,Masculino,Philadelphia,Nunca,Ice Cream,80.02
+Tammy,Femenino,New York,Anualmente,Ice Cream,31.8
+Patricia,Femenino,Stamford,Mensualmente,Sushi,55.78
+Ernest,Masculino,New York,Mensualmente,Chalupa,93.44
+Jason,Masculino,Philadelphia,Anualmente,Ice Cream,47.26
+Alan,Masculino,New York,Anualmente,Donut,47.74
+Sean,Masculino,Stamford,Semanalmente,Burrito,72.27
+Jack,Masculino,Stamford,Mensualmente,Ice Cream,74.36
+Catherine,Femenino,Stamford,Anualmente,Chalupa,40.67
+Denise,Femenino,Philadelphia,Semanalmente,Ice Cream,16.87
+Wanda,Femenino,Stamford,Semanalmente,Ice Cream,20.05
+Fred,Masculino,Stamford,Una vez,Donut,19.1
+Doris,Femenino,New York,Rara vez,Burger,18.65
+Albert,Masculino,Philadelphia,Anualmente,Chalupa,31.15
+Katherine,Femenino,Stamford,Frecuentemente,Sushi,29.58
+Steven,Masculino,Stamford,Diariamente,Chalupa,99.87
+Nicole,Femenino,Philadelphia,Rara vez,Burger,29.15
+Lori,Femenino,Stamford,Semanalmente,Donut,40.31
+Richard,Masculino,Philadelphia,Rara vez,Chalupa,32.35
+Elizabeth,Femenino,New York,Frecuentemente,Sushi,2.52
+Carol,Femenino,Philadelphia,Mensualmente,Donut,50.25
+Angela,Femenino,New York,Frecuentemente,Ice Cream,43.37
+Sean,Masculino,Philadelphia,Frecuentemente,Sushi,64.6
+Harry,Masculino,New York,Nunca,Sushi,70.37
+Janet,Femenino,New York,Rara vez,Donut,9.14
+Catherine,Femenino,Philadelphia,Nunca,Chalupa,40.44
+Norma,Femenino,Philadelphia,Rara vez,Burger,34.43
+Karen,Femenino,Stamford,Mensualmente,Burger,53.14
+Roy,Masculino,Stamford,Una vez,Burger,24.93
+Russell,Masculino,Stamford,Mensualmente,Burger,8.95
+Denise,Femenino,Stamford,Nunca,Ice Cream,77.66
+Scott,Masculino,Philadelphia,Diariamente,Ice Cream,6.73
+Dennis,Masculino,Stamford,Frecuentemente,Burger,85.25
+Jonathan,Masculino,New York,Una vez,Ice Cream,45.8
+Frances,Femenino,Philadelphia,Semanalmente,Donut,95.32
+Tammy,Femenino,New York,Frecuentemente,Burger,5.7
+Melissa,Femenino,Philadelphia,Frecuentemente,Burger,37.32
+Joseph,Masculino,New York,Frecuentemente,Chalupa,70.07
+Amy,Femenino,New York,Nunca,Burrito,22.67
+Jesse,Masculino,New York,Rara vez,Chalupa,11.69
+Brenda,Femenino,New York,Mensualmente,Burrito,16.36
+Earl,Masculino,New York,Una vez,Ice Cream,97.41
+Doris,Femenino,Stamford,Una vez,Burger,6.24
+William,Masculino,Stamford,Frecuentemente,Burrito,88.14
+Carl,Masculino,Philadelphia,Diariamente,Burrito,67.2
+Carl,Masculino,Philadelphia,Una vez,Ice Cream,47.13
+Daniel,Masculino,New York,Mensualmente,Chalupa,45.73
+Albert,Masculino,Philadelphia,Diariamente,Chalupa,38.65
+Rachel,Femenino,Philadelphia,Rara vez,Sushi,11.68
+Kenneth,Masculino,Stamford,Frecuentemente,Burger,56.41
+Wayne,Masculino,Stamford,Una vez,Ice Cream,14.13
+Kelly,Femenino,Stamford,Diariamente,Burrito,1.18
+Antonio,Masculino,Philadelphia,Semanalmente,Burrito,40.01
+Carol,Femenino,Stamford,Una vez,Sushi,8.38
+Jesse,Masculino,Philadelphia,Nunca,Ice Cream,95.69
+John,Masculino,New York,Anualmente,Sushi,70.78
+Charles,Masculino,Stamford,Semanalmente,Donut,64.28
+Eric,Masculino,Stamford,Una vez,Burger,19.12
+Daniel,Masculino,New York,Frecuentemente,Chalupa,58.95
+Keith,Masculino,New York,Diariamente,Donut,65.19
+Jeffrey,Masculino,Philadelphia,Una vez,Burger,35.88
+Amy,Femenino,New York,Diariamente,Donut,20.78
+Jimmy,Masculino,Stamford,Nunca,Ice Cream,35.74
+Ernest,Masculino,New York,Semanalmente,Burrito,70.17
+Ann,Femenino,Stamford,Anualmente,Chalupa,92.16
+Jesse,Masculino,Stamford,Una vez,Burger,65.7
+Louise,Femenino,Stamford,Anualmente,Burger,69.8
+Timothy,Masculino,Stamford,Diariamente,Burrito,80.38
+Pamela,Femenino,New York,Nunca,Burger,97.89
+Anthony,Masculino,Stamford,Anualmente,Ice Cream,8.72
+Raymond,Masculino,New York,Nunca,Burger,90.32
+Mark,Masculino,Philadelphia,Rara vez,Donut,13.79
+Shirley,Femenino,Stamford,Nunca,Burrito,98.61
+Donna,Femenino,New York,Mensualmente,Sushi,83.53
+Albert,Masculino,Philadelphia,Diariamente,Sushi,72.88
+Jean,Femenino,Stamford,Semanalmente,Donut,5.85
+Jessica,Femenino,New York,Diariamente,Chalupa,43.19
+Brian,Masculino,New York,Diariamente,Chalupa,28.36

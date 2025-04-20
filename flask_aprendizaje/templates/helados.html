@@ -1,0 +1,8 @@
+{% extends "layout.html" %}
+
+{% block titulo %}Página de inicio{% endblock %}
+
+{% block contenido %}
+{{super()}}
+<p>Bienvenida, {{ nombre }}.</p>
+{% endblock %}

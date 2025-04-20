@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+<header>
+    <h3>Mi App Flask</h3>
+</header>
+<main>
+
+    <h3>Tienda de helados</h3>
+    {% if precio1 > 10 %}
+    <h2>El precio es muy alto</h2>
+    {% else %}
+    <h2>El precio es muy bajo</h2>
+    {% endif %}
+    <h3>{{precio1}}</h3>
+    <h3>{{precio2}}</h3>
+    {#Imprime lista de sabores#}
+    <h3>{{sabores}}</h3>
+    <ul>
+        {% for sabor in sabores %}
+        <li>{{sabor}}</li>
+        {% endfor %}
+    </ul>
+</main>
+{% include "includes/footer.html" %}
+</body>
+</html>

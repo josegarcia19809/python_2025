@@ -1,0 +1,43 @@
+<!-- templates/usuarios.html -->
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Usuarios Registrados</title>
+</head>
+<body>
+{% with mensajes = get_flashed_messages() %}
+{% if mensajes %}
+<div id="flash-message" style="background-color: #e0ffe0; padding: 10px; border: 1px solid #90ee90; color: #006400;">
+    <ul>
+        {% for mensaje in mensajes %}
+        <li>{{ mensaje }}</li>
+        {% endfor %}
+    </ul>
+</div>
+{% endif %}
+{% endwith %}
+
+<h1>Lista de Usuarios</h1>
+<ul>
+    {% for usuario in datos %}
+    <li>
+        <strong>{{ usuario.nombre }}</strong> ({{ usuario.correo }}) - {{ usuario.mensaje }}
+        <a href="/detalle/{{ usuario.id }}">👁️ Ver detalle</a>
+        <a href="/editar/{{ usuario.id }}">✏️ Editar</a> |
+        <a href="/eliminar/{{ usuario.id }}" onclick="return confirm('¿Estás seguro de eliminar?');">🗑️ Eliminar</a>
+    </li>
+    {% endfor %}
+</ul>
+<a href="/alta">Registrar nuevo usuario</a>
+
+<script>
+    // Ocultar el mensaje flash después de 3 segundos
+    setTimeout(() => {
+        const flash = document.getElementById("flash-message");
+        if (flash) {
+            flash.style.display = "none";
+        }
+    }, 3000); // 3000 ms = 3 segundos
+</script>
+</body>
+</html>

@@ -1,0 +1,22 @@
+[
+    {
+        "nombre": "Firulais",
+        "tipo": "Perro",
+        "edad": 4
+    },
+    {
+        "nombre": "Mishi",
+        "tipo": "Gato",
+        "edad": 2
+    },
+    {
+        "nombre": "Luna",
+        "tipo": "Conejo",
+        "edad": 1
+    },
+    {
+        "nombre": "Rocky",
+        "tipo": "Tortuga",
+        "edad": 10
+    }
+]

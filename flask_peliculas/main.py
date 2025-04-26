@@ -22,5 +22,13 @@ def index():
                            fecha_resenia=fecha_resenia)
 
 
+# http://127.0.0.1:5000/rating
+@app.route("/rating")
+def verificar_rating():
+    titulo = "The avengers"
+    rating = 9
+    return render_template("rating.html", titulo=titulo, rating=rating)
+
+
 if __name__ == "__main__":
     app.run()

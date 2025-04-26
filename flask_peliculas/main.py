@@ -30,5 +30,12 @@ def verificar_rating():
     return render_template("rating.html", titulo=titulo, rating=rating)
 
 
+# http://127.0.0.1:5000/peliculas
+@app.route("/peliculas")
+def mostrar_peliculas():
+    peliculas = ["Avatar", "Spiderman: No Way Home", "The Batman", "The Lion King"]
+    return render_template("peliculas.html", peliculas=peliculas)
+
+
 if __name__ == "__main__":
     app.run()

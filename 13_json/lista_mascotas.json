@@ -15,6 +15,11 @@
         "edad": 1
     },
     {
+        "nombre": "Solovino",
+        "tipo": "Perro",
+        "edad": 2
+    },
+    {
         "nombre": "Rocky",
         "tipo": "Tortuga",
         "edad": 10

@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "nombre": "Jose",
+        "correo": "jose@gmail.com",
+        "mensaje": "Este es un buen d\u00eda para programar"
+    },
+    {
+        "id": 2,
+        "nombre": "Rox",
+        "correo": "rox@gmail.com",
+        "mensaje": "Administrador Web"
+    },
+    {
+        "id": 3,
+        "nombre": "Carolina",
+        "correo": "carolina@gmail.com",
+        "mensaje": "Programadora JR"
+    }
+]

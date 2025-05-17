@@ -12,7 +12,7 @@ import json
 import os
 
 app = Flask(__name__)
-
+app.secret_key = "mi_clave_secreta_segura"
 
 @app.route("/")
 def index():
@@ -64,6 +64,78 @@ def ver_usuarios():
         datos = []
 
     return render_template("usuarios.html", datos=datos)
+
+@app.route("/eliminar/<int:id>")
+def eliminar_usuario(id):
+    if os.path.exists("usuarios.json"):
+        with open("usuarios.json", "r") as archivo:
+            datos = json.load(archivo)
+
+        datos = [u for u in datos if u["id"] != id]
+
+        with open("usuarios.json", "w") as archivo:
+            json.dump(datos, archivo, indent=4)
+
+        flash("Usuario eliminado.")
+
+    return redirect("/usuarios")
+
+@app.route("/editar/<int:id>", methods=["GET"])
+def mostrar_edicion(id):
+    if not os.path.exists("usuarios.json"):
+        return redirect("/usuarios")
+
+    with open("usuarios.json", "r") as archivo:
+        datos = json.load(archivo)
+
+    usuario = next((u for u in datos if u["id"] == id), None)
+
+    if usuario is None:
+        flash("Usuario no encontrado.")
+        return redirect("/usuarios")
+
+    return render_template("editar.html", usuario=usuario)
+
+
+@app.route("/actualizar/<int:id>", methods=["POST"])
+def actualizar_usuario(id):
+    if not os.path.exists("usuarios.json"):
+        return redirect("/usuarios")
+
+    with open("usuarios.json", "r") as archivo:
+        datos = json.load(archivo)
+
+    usuario = next((u for u in datos if u["id"] == id), None)
+
+    if usuario:
+        usuario["nombre"] = request.form["nombre"]
+        usuario["correo"] = request.form["correo"]
+        usuario["mensaje"] = request.form["mensaje"]
+
+        with open("usuarios.json", "w") as archivo:
+            json.dump(datos, archivo, indent=4)
+
+        flash("Usuario actualizado.")
+    else:
+        flash("Usuario no encontrado.")
+
+    return redirect("/usuarios")
+
+@app.route("/detalle/<int:id>")
+def detalle_usuario(id):
+    if not os.path.exists("usuarios.json"):
+        return redirect("/usuarios")
+
+    with open("usuarios.json", "r") as archivo:
+        datos = json.load(archivo)
+
+    usuario = next((u for u in datos if u["id"] == id), None)
+
+    if usuario is None:
+        flash("Usuario no encontrado.")
+        return redirect("/usuarios")
+
+    return render_template("detalle.html", usuario=usuario)
 
 
 if __name__ == "__main__":

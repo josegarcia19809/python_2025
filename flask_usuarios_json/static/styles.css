@@ -1,0 +1,68 @@
+:root {
+    --white: #ffffff;
+    --primary: #F59E0B;
+}
+
+.title {
+    text-align: center;
+    font-size: 3rem;
+    margin-top: 5rem;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    font-family: "Outfit", sans-serif;
+    background-image: url("bg_clima.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    color: var(--white);
+    font-size: 2rem;
+}
+
+.container {
+    width: 95%;
+    max-width: 100rem;
+    margin: 0 auto;
+}
+
+@media (min-width: 768px) {
+    .container {
+        align-items: center;
+        gap: 4rem;
+        margin-top: 5rem;
+    }
+}
+
+
+/* Estilos del contenedor de clima */
+.weather-card {
+    background-color: var(--white);
+    color: black;
+    border-radius: 1rem;
+    text-align: center;
+    padding: 1rem;
+}
+
+.current {
+    font-size: 1.5rem;
+    font-weight: 900;
+    margin: 0;
+}
+
+.temperatures {
+    display: flex;
+    justify-content: center;
+    gap: 5rem;
+}
+
+.temperatures p {
+    font-weight: 900;
+}
+
+.temperatures span {
+    font-weight: 400;
+}

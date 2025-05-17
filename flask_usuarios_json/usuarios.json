@@ -1,20 +1,14 @@
 [
     {
         "id": 1,
-        "nombre": "Jose",
+        "nombre": "Jos\u00e9 Luis",
         "correo": "jose@gmail.com",
-        "mensaje": "Este es un buen d\u00eda para programar"
+        "mensaje": "Este es un buen d\u00eda para programar en Python\r\n            "
     },
     {
         "id": 2,
         "nombre": "Rox",
         "correo": "rox@gmail.com",
-        "mensaje": "Administrador Web"
-    },
-    {
-        "id": 3,
-        "nombre": "Carolina",
-        "correo": "carolina@gmail.com",
-        "mensaje": "Programadora JR"
+        "mensaje": "Desarrollador JR"
     }
 ]
